@@ -33,9 +33,9 @@ https://github.com/user-attachments/assets/15052106-86cd-4990-b1aa-ba6d8554fa86
 
 ## Insights <br>
 *  Women are more likely to buy compared to men (≈65%) <br>
-*  Maharashtra, Karnatka, and Uttar Pradesh are top 3 states (≈35%) <br>
+*  Maharashtra, Karnataka, and Uttar Pradesh are top 3 states (≈35%) <br>
 *  Adult age group (30-49) is max contributing (≈50%) <br>
-*  Amazon, Flipcart and Myantra channels are max contributing (≈80%) <br>
+*  Amazon, Flipkart and Myntra channels are max contributing (≈80%) <br>
 
 ## Conclusion <br>
-Target Women customers of age group 30-49 years living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipcart and Myantra.
+Target Women customers of age group 30-49 years living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
